@@ -1,5 +1,5 @@
 # Visualizing Datasets Project - Minimum Wages
-This project explores global minimum wage data from 2000 to 2017. 
+This project explores global minimum wage data in the countries with the highest minimum wages from 2000-2017. 
 
 We analyze the top countries by minimum wage and examine trends over time to understand 
 how wages have changed across different nations.
