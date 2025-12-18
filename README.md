@@ -25,3 +25,6 @@ This line chart tracks the minimum wage growth for the top 5 countries based on 
 
 **Data source:** 
 [Kaggle Minimum Wage Data:](https://www.kaggle.com/code/sugandhkhobragade/minimum-wages-around-the-world-eda/notebook)  
+
+
+[Project Instuctions Link:](https://github.com/teacher-aj/HeschelCS/blob/main/project_02_visualizing_datasets/README.md)
