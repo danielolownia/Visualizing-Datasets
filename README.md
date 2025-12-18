@@ -8,11 +8,11 @@ how wages have changed across different nations.
 
 ## Top 10 Countries by Minimum Wage in 2017
 
-[Top 10 Countries Graph:](Images/Top10 Minumum Wges.png)
+[Top 10 Countries Graph:](Images/top10_minimum_wges.png)
 
 This bar chart shows the top 10 countries with the highest minimum wage in 2017. It highlights differences in wage levels across nations and allows us to compare the economic conditions in each country. Notice how some countries offer higher wages than others, reflecting local economic policies and labor markets.  
 
-**Data source:** [World Bank Minimum Wage Data](https://data.worldbank.org)  
+**Data source:** [Kaggle Minimum Wage Data:](https://www.kaggle.com/code/sugandhkhobragade/minimum-wages-around-the-world-eda/notebook)  
 
 ---
 
